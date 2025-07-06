@@ -2,7 +2,9 @@
 
 Lista de exercícios de Técnicas de programação, propostos em sala pelo professor. Os exercícios estão organizados por nível de dificuldade, de problemas de aritmética a desafios um pouco mais sofisticados. 
 
+<!--
 Este repositório contém as resoluções na linguagem Java. Para ver as resoluções em Python acesse este repositório: [Seleção BPM Lab Python.]()
+-->
 
 ##  Sumário
 
