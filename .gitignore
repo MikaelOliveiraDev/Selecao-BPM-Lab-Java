@@ -1,0 +1,10 @@
+# Java
+*.class
+
+# Diretórios de build
+bin/
+out/
+
+# IntelliJ
+.idea/
+*.iml
