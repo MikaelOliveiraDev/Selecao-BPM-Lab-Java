@@ -22,6 +22,9 @@ Este repositório contém as resoluções na linguagem Java. Para ver as resolu�
 
 ## Divisão dos exercícios
 
+Segue uma lista resumida das questões/exercícios realizados nesse projeto. Para visualizar, em detalhe, o comando de cada questão, abra o arquivo [Selecao_BPM_Lab.pdf
+](./Selecao_BPM_Lab.pdf) fornecido pelo professor.
+
 ### 1. Aritmética Simples
 
 Questões cuja solução envolve o uso dos seguintes recursos da linguagem de programação: operadores matemáticos, funções matemáticas, operações de entrada e saída, variáveis e conversão de tipos.
